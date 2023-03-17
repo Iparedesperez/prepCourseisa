@@ -1,2 +1,3 @@
-# prepCourseisa
-Este es un repositorio del modulo 2 del prepcourse de Henrry 
+proyecto de como crear un repositorio y clonarlo desde github a mi compu
+
+lslslsl
